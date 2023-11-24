@@ -62,4 +62,5 @@ for file_name in os.listdir(path_to_files):
         # Store the result in the database
         store_in_database(file_name, completion_text)
 
+
 print("All files have been processed and stored in the database.")
