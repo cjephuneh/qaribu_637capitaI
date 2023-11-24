@@ -1,0 +1,5 @@
+Azibo Baloyi (Project Manager) - Manages the project, coordinates with different teams, and ensures the project stays within the agreed timeline and budget.
+Abena Boateng (Lead AI Specialist) - Oversees the AI application development, delegates tasks to other AI specialists, and ensures the application meets Blue Ocean Technologies' needs.
+Kwasi Abebe and Efia Owusu (AI Specialists) - Work on designing and implementing the AI applications, improving efficiency, scalability, and stability of deployed systems.
+Chike Onyango (Software Developer) - Works on coding the AI-driven software solution, debugging, and testing its functionality.
+Yewande Moyo (QA Tester) - Tests the software for bugs and other technical issues, ensures it operates as intended.

@@ -1,0 +1,65 @@
+Project Manager
+Job Description:
+Responsibilities:
+Define and confirm project scope.
+Develop and manage a detailed project schedule and work plan.
+Provide project updates on a consistent basis to various stakeholders about strategy, adjustments, and progress.
+Utilize industry best practices, techniques, and standards throughout the entire project execution.
+Requirements:
+Proven work experience as a project manager in the IT sector.
+Solid technical background, with understanding or hands-on experience in software development and web technologies.
+Excellent client-facing and internal communication skills.
+Excellent written and verbal communication skills.
+Strong working knowledge of Microsoft Office.
+
+Lead AI Specialist
+Job Description:
+Responsibilities:
+Lead the development and deployment of AI models.
+Collaborate with cross-functional teams to understand needs and implement AI solutions.
+Work with data to train models, and fine-tune their performance.
+Stay informed on the latest AI trends and technologies.
+Requirements:
+Proven experience as an AI Specialist or similar role.
+Understanding of machine learning, deep learning, and related technologies.
+Familiarity with programming languages like Python, R, and Java.
+Excellent communication and leadership skills.
+
+AI Specialists
+Job Description:
+Responsibilities:
+Assist in developing and deploying AI models.
+Work with cross-functional teams to understand needs and implement AI solutions.
+Maintain AI models and update as necessary.
+Collaborate with Lead AI Specialist to optimize performance of AI solutions.
+Requirements:
+Proven experience as an AI Specialist or similar role.
+Understanding of machine learning, deep learning, and related technologies.
+Familiarity with programming languages like Python, R, and Java.
+Excellent problem-solving skills.
+
+Software Developer
+Job Description:
+Responsibilities:
+Develop software solutions by studying information needs, conferring with users, and studying systems flow, data usage, and work processes.
+Investigate problem areas and follow the software development lifecycle.
+Document and demonstrate solutions by developing documentation, flowcharts, layouts, diagrams, charts, code comments, and clear code.
+Improve operations by conducting systems analysis and recommending changes in policies and procedures.
+Requirements:
+Proven work experience as a Software Engineer or Software Developer.
+Experience designing interactive applications.
+Ability to develop software in Java, Ruby on Rails, C++ or other programming languages.
+Excellent knowledge of relational databases, SQL, and ORM technologies.
+
+QA Tester
+Job Description:
+Responsibilities:
+Review requirements, specifications, and technical design documents to provide timely and meaningful feedback.
+Create detailed, comprehensive, and well-structured test plans and test cases.
+Estimate, prioritize, plan, and coordinate testing activities.
+Design, develop and execute automation scripts using open source tools.
+Requirements:
+Proven work experience in software development.
+Proven work experience in software quality assurance.
+Strong knowledge of software QA methodologies, tools, and processes.
+Experience in writing clear, concise, and comprehensive test plans and test cases.
