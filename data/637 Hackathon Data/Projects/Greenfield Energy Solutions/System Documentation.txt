@@ -1,0 +1,66 @@
+# System Documentation for Greenfield Energy Solutions Mobile Application  
+   
+## 1. Introduction  
+   
+This document outlines the system specifications and functionalities of the Greenfield Energy Solutions Mobile Application. The app aims to provide users with easy access to renewable energy solutions, including solar panels and wind turbines installation services.  
+   
+## 2. System Overview  
+   
+The mobile application is designed for Android and iOS platforms. It allows users to explore Greenfield's services, schedule installations, monitor energy production, and access customer support.   
+  
+## 3. System Requirements  
+   
+### 3.1 Hardware Requirements  
+   
+- Android: Smartphone or tablet with Android 6.0 and above.  
+- iOS: iPhone, iPad, or iPod touch with iOS 11.0 or later.  
+   
+### 3.2 Software Requirements  
+   
+- Android: Google Play Services  
+- iOS: Apple App Store services  
+   
+## 4. System Features  
+   
+### 4.1 User Registration and Authentication  
+   
+Users can create a profile using their email or social media accounts. The system will authenticate users through passwords or biometric features.  
+   
+### 4.2 Service Exploration  
+   
+The application will provide detailed information about Greenfield's services, including solar panel and wind turbine installations.  
+   
+### 4.3 Scheduling Installations  
+   
+Users can schedule an installation service directly from the app, choosing the date and time that best suits their needs.  
+   
+### 4.4 Energy Production Monitoring  
+   
+Post-installation, users can monitor their energy production, consumption, and savings in real-time.  
+   
+### 4.5 Customer Support  
+   
+A dedicated section for customer support will be available, including FAQs, troubleshooting guides, and direct contact with support representatives.  
+   
+## 5. System Architecture  
+   
+The mobile application follows a client-server model. The client-side (mobile app) communicates with the server-side (hosted on cloud infrastructure) through secure RESTful APIs.   
+  
+## 6. Security   
+  
+The application uses encryption for data transmission and stores data in a secure, encrypted format. It also employs a role-based access control system for different levels of user permissions.  
+   
+## 7. Maintenance and Updates  
+   
+The mobile application will receive regular updates to maintain its compatibility with the latest OS versions and to implement new features or improvements.   
+  
+## 8. Conclusion  
+   
+This system documentation outlines the key features, requirements, and architecture of the Greenfield Energy Solutions Mobile Application. The application's objective is to provide an accessible, user-friendly platform for customers to leverage Greenfield's renewable energy services.  
+   
+## 9. Appendices  
+   
+- Appendix A: Wireframes of the mobile application  
+- Appendix B: API endpoints and payloads  
+- Appendix C: User manual  
+- Appendix D: Troubleshooting guide  

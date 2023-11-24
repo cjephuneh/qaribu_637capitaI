@@ -1,0 +1,5 @@
+Ayo Okafor (Project Manager) - Oversees the entire project, schedules meetings, and ensures deadlines are met.
+Nia Mwangi (Lead Mobile Application Developer) - Oversees the app development process, delegates tasks to other developers, and ensures coding standards are met.
+Kwame Mensah, Zainab Sesay, and Tunde Adeoye (Mobile Application Developers) - Work on coding the app, debugging, and testing the app's functionality.
+Amara Eze (UI/UX Designer) - Designs the app interface and user experience, ensuring it's user-friendly and intuitive.
+Chijioke Ndlovu (Quality Assurance Tester) - Tests the app for bugs and other technical issues, ensures the app works as intended on all platforms.
