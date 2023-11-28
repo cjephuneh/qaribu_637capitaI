@@ -32,9 +32,9 @@ a_profile, b_job_descriptions, c_meeting_notes, d_project_docs, e_SOPs, f_team_s
     read_file_to_variable(file_path) for file_path in file_paths]
 
 client = AzureOpenAI(
-    api_key="b8e6ac2cfda244dd848a823511255a0b",
-    azure_endpoint="https://hackathonservice.openai.azure.com/",
-    api_version="2023-05-15"
+    # api_key="b8e6ac2cfda244dd848a823511255a0b",
+    # azure_endpoint="https://hackathonservice.openai.azure.com/",
+    # api_version="2023-05-15"
 )
 
 # Generate responses for each file and store in variables
