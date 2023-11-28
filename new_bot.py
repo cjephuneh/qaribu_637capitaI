@@ -47,4 +47,4 @@ completion = client.chat.completions.create(
 # --- Output --- #
 print(completion.choices[0].message)
 print("\n")
-print(type(completion.choices[0].message))
+print(type(completion.choices[0].message)) # <class 'openai.types.chat.chat_completion_message.ChatCompletionMessage'>
