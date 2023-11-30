@@ -1,0 +1,32 @@
+
+Meeting Notes for BlueOcean Technologies Project
+
+Meeting 1: Kick-off Meeting
+
+Attendees: Azibo Baloyi, Abena Boateng, Kwasi Abebe, Efia Owusu, Chike Onyango, Yewande Moyo
+Azibo Baloyi outlined the scope and objectives of the BlueOcean Technologies project.
+Communication protocols and meeting schedules were established.
+Initial tasks and responsibilities were delegated to each team member.
+
+Meeting 2: AI Application Development Progress
+Attendees: Azibo Baloyi, Abena Boateng, Kwasi Abebe, Efia Owusu
+Abena Boateng presented the progress of the AI application development, showing preliminary functionalities.
+Kwasi and Efia discussed challenges they encountered and proposed solutions.
+The team planned the next phase - Software Development.
+
+Meeting 3: Software Development Update
+Attendees: Azibo Baloyi, Chike Onyango
+Chike Onyango showcased the initial results of coding the AI-driven software solution.
+Azibo and Chike discussed potential adjustments based on the AI application requirements.
+They planned for the integration of the AI application into the software.
+
+Meeting 4: Quality Assurance Planning
+Attendees: Azibo Baloyi, Yewande Moyo
+Yewande Moyo discussed the plan for testing the software for bugs and other technical issues.
+Azibo and Yewande planned for the QA process to ensure the software operates as intended.
+
+Meeting 5: Project Progress Update
+Attendees: Azibo Baloyi, Abena Boateng, Kwasi Abebe, Efia Owusu, Chike Onyango, Yewande Moyo
+Each team member presented their progress and discussed challenges and solutions.
+Azibo Baloyi led the planning for the final phase of the project - Final Testing and Deployment.
+Future tasks and responsibilities were assigned for the final phase.
