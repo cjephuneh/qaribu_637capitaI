@@ -1,0 +1,64 @@
+Project Manager
+Job Description:
+Responsibilities:
+Define and confirm project scope.
+Develop and manage a detailed project schedule and work plan.
+Provide project updates on a consistent basis to various stakeholders about strategy, adjustments, and progress.
+Utilize industry best practices, techniques, and standards throughout the entire project execution.
+Requirements:
+Proven work experience as a project manager in the IT sector.
+Solid technical background, with understanding or hands-on experience in software development and web technologies.
+Excellent client-facing and internal communication skills.
+Excellent written and verbal communication skills.
+Strong working knowledge of Microsoft Office.
+
+Lead Mobile Application Developer
+Job Description:
+Responsibilities:
+Design and build advanced applications for the Android and iOS platform.
+Collaborate with cross-functional teams to define, design, and ship new features.
+Work with outside data sources and APIs.
+Unit-test code for robustness, including edge cases, usability, and general reliability.
+Requirements:
+Proven work experience as a Mobile developer.
+Demonstrable portfolio of released applications on the App store or the Android market.
+In-depth knowledge of at least one programming language like Swift and Java.
+Experience with third-party libraries and APIs.
+
+Mobile Application Developers
+Job Description:
+Responsibilities:
+Work on bug fixing and improving application performance.
+Continuously discover, evaluate, and implement new technologies to maximize development efficiency.
+Cooperate with cross-functional teams to define, design, and ship new features.
+Work with outside data sources and APIs.
+Requirements:
+Proven work experience as a Mobile developer.
+Demonstrable portfolio of released applications on the App store or the Android market.
+In-depth knowledge of at least one programming language like Swift and Java.
+Experience with third-party libraries and APIs.
+
+UI/UX Designer
+Job Description:
+Responsibilities:
+Design and deliver wireframes, user stories, user journeys, and mockups optimized for a wide range of devices and interfaces.
+Identify design problems and devise elegant solutions.
+Make strategic design and user-experience decisions related to core, and new, functions and features.
+Collaborate with other team members and stakeholders.
+Requirements:
+Three or more years of UX design experience. Preference will be given to candidates who have experience designing complex solutions for complete digital environments.
+Expertise in standard UX software such as Sketch, OmniGraffle, Axure, InVision, UXPin, Balsamiq, Framer, and the like is a must. Basic HTML5, CSS3, and JavaScript skills are a plus.
+Ability to work with clients to understand detailed requirements and design complete user experiences that meet client needs and vision.
+
+Quality Assurance Tester
+Job Description:
+Responsibilities:
+Review requirements, specifications, and technical design documents to provide timely and meaningful feedback.
+Create detailed, comprehensive, and well-structured test plans and test cases.
+Estimate, prioritize, plan, and coordinate testing activities.
+Design, develop and execute automation scripts using open source tools.
+Requirements:
+Proven work experience in software development.
+Proven work experience in software quality assurance.
+Strong knowledge of software QA methodologies, tools and processes.
+Experience in writing clear, concise and comprehensive test plans and test cases.
