@@ -1,0 +1,6 @@
+Industry: Biotechnology
+Location: Boston, Massachusetts, USA
+Founded: 2015
+Number of Employees: 50-200
+CEO: Mary Johnson
+Description: Phoenix Biotech is a pioneering biotechnology company that focuses on the research and development of innovative therapies for rare diseases. Their work involves a significant amount of data processing and analysis. They might need consultancy services to manage their vast amounts of data, implement cutting-edge IT solutions for data analysis, ensure the security and privacy of sensitive data, and align their IT strategy with their research objectives.

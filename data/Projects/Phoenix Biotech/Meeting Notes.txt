@@ -1,0 +1,33 @@
+
+Meeting Notes for Phoenix Biotech Analysis Dashboards & Trend Analysis Models Project
+
+Meeting 1: Kick-off Meeting
+
+Attendees: Kofi Baah, Adesuwa Okoro, Obi Bello, Amina Kamara, Akua Gyasi, Sefu Mbewe
+Kofi Baah discussed the scope and objectives of the Phoenix Biotech project.
+Communication protocols and bi-weekly project update meetings were set up.
+Initial tasks and responsibilities were assigned to each team member.
+
+Meeting 2: Data Collection and Analysis Update
+Attendees: Kofi Baah, Adesuwa Okoro, Obi Bello, Amina Kamara
+Adesuwa Okoro presented the progress of data collection and initial analysis.
+Challenges in data collection were identified, and Amina Kamara proposed potential solutions.
+The team planned for the next phase - Developing the Dashboard.
+
+Meeting 3: Dashboard Development Update
+Attendees: Kofi Baah, Adesuwa Okoro, Akua Gyasi
+Akua Gyasi discussed the progress on the development of the dashboard.
+The initial design and features of the dashboard were reviewed.
+Adesuwa Okoro suggested adjustments needed based on initial data analysis results.
+
+Meeting 4: Machine Learning Model Development
+Attendees: Kofi Baah, Sefu Mbewe
+Sefu Mbewe discussed the development of the machine learning model for trend analysis.
+Kofi Baah and Sefu reviewed the selection of datasets and data representation methods.
+They planned for the integration of the machine learning model with the dashboard.
+
+Meeting 5: Project Progress Update
+Attendees: Kofi Baah, Adesuwa Okoro, Obi Bello, Amina Kamara, Akua Gyasi, Sefu Mbewe
+Each team member reviewed their progress and discussed challenges and solutions in their respective areas.
+The team planned for the final phase of the project - Testing and Deployment.
+Kofi Baah assigned tasks and responsibilities for the final phase.

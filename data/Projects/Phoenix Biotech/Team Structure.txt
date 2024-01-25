@@ -1,0 +1,5 @@
+Kofi Baah (Project Manager) - Oversees the entire project, organizes team meetings, and liaises with Phoenix Biotech.
+Adesuwa Okoro (Lead Data Analyst) - Guides the data analysis process, delegates tasks to other data analysts, and communicates findings to the project manager.
+Obi Bello and Amina Kamara (Data Analysts) - Work on collecting and interpreting data, developing databases, and identifying process improvement opportunities.
+Akua Gyasi (Tableau Developer) - Builds the dashboard using Tableau, ensuring it visually represents the data and insights from the data analysts.
+Sefu Mbewe (Machine Learning Engineer) - Develops trend analysis models using machine learning algorithms, works closely with data analysts to ensure models are accurate and useful.

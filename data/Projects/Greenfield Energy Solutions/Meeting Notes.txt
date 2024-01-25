@@ -1,0 +1,31 @@
+Meeting Notes for Greenfield Energy Solutions Project
+
+Meeting 1: Kick-off Meeting
+
+Attendees: Ayo Okafor, Nia Mwangi, Kwame Mensah, Zainab Sesay, Tunde Adeoye, Amara Eze, Chijioke Ndlovu
+Ayo Okafor outlined the scope and objectives of the Greenfield Energy Solutions project.
+Communication protocols and meeting schedules were established.
+Initial tasks and responsibilities were delegated to each team member.
+
+Meeting 2: App Development Progress
+Attendees: Ayo Okafor, Nia Mwangi, Kwame Mensah, Zainab Sesay, Tunde Adeoye
+Nia Mwangi presented the progress of the app development, showing preliminary functionalities.
+Kwame, Zainab, and Tunde discussed challenges they encountered and proposed solutions.
+The team brainstormed the next phase - UI/UX Design.
+
+Meeting 3: UI/UX Design Update
+Attendees: Ayo Okafor, Amara Eze
+Amara Eze showcased the initial designs for the app interface and user experience.
+Ayo and Amara discussed potential adjustments based on user-friendliness and intuitiveness.
+They planned for the integration of the designs into the app development.
+
+Meeting 4: Quality Assurance Planning
+Attendees: Ayo Okafor, Chijioke Ndlovu
+Chijioke Ndlovu discussed the plan for testing the app for bugs and other technical issues.
+Ayo and Chijioke planned for the QA process to ensure the app works as intended on all platforms.
+
+Meeting 5: Project Progress Update
+Attendees: Ayo Okafor, Nia Mwangi, Kwame Mensah, Zainab Sesay, Tunde Adeoye, Amara Eze, Chijioke Ndlovu
+Each team member presented their progress and discussed challenges and solutions.
+Ayo Okafor led the planning for the final phase of the project - Final Testing and Deployment.
+Future tasks and responsibilities were assigned for the final phase.

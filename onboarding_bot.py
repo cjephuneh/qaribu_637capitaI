@@ -1,3 +1,6 @@
+# Description: This file contains the code for the old bot, which uses the OpenAI API by Azure. 
+# It is not used in the new project, but is kept here for reference.
+
 import os
 from openai import AzureOpenAI
 from tqdm import tqdm  # Import tqdm for the progress bar
@@ -17,12 +20,12 @@ def read_file_to_variable(file_path):
 
 # Example usage with six different file paths
 file_paths = [
-    "/media/windows/Common/_PROJECTS/new_qaribu/a_company_profile.txt",
-    "/media/windows/Common/_PROJECTS/new_qaribu/b_job_descriptions.txt",
-    "/media/windows/Common/_PROJECTS/new_qaribu/c_meeting_notes.txt",
-    "/media/windows/Common/_PROJECTS/new_qaribu/d_project_docs.txt",
-    "/media/windows/Common/_PROJECTS/new_qaribu/e_SOPs.txt",
-    "/media/windows/Common/_PROJECTS/new_qaribu/f_team_structure.txt",
+    "path/to/a_company_profile.txt",
+    "path/to/b_job_descriptions.txt",
+    "path/to/c_meeting_notes.txt",
+    "path/to/d_project_docs.txt",
+    "path/to/e_SOPs.txt",
+    "path/to/f_team_structure.txt",
     
 ]
 
@@ -32,9 +35,9 @@ a_profile, b_job_descriptions, c_meeting_notes, d_project_docs, e_SOPs, f_team_s
     read_file_to_variable(file_path) for file_path in file_paths]
 
 client = AzureOpenAI(
-    api_key="b8e6ac2cfda244dd848a823511255a0b",
-    azure_endpoint="https://hackathonservice.openai.azure.com/",
-    api_version="2023-05-15"
+    # api_key="b8e6ac2cfda244dd848a823511255a0b",
+    # azure_endpoint="https://hackathonservice.openai.azure.com/",
+    # api_version="2023-05-15"
 )
 
 # Generate responses for each file and store in variables
@@ -266,11 +269,13 @@ titles_and_links = [
 "https://youtu.be/fis26HvvDII?si=tJpw3oUIQNtih_oQ - Lead Mobile Application Developer",
 "https://youtu.be/c9Wg6Cb_YlU?si=D07_Xy5X-0MQsSQT - UI/UX Designer",
 "https://youtu.be/DerVeJt0OmI?si=o9tMiFt4CRa7Qnpf - Quality Assurance Tester",
-"https://youtu.be/i_LwzRVP7bg?si=kQh8KTWL7NabAozB - Machine Learning Engineer",
-"https://youtu.be/TPMlZxRRaBQ?si=leVeCZxcnPjJ4IBt - Tableau Developer",
+"https://youtu.be/i_LwzRVP7bg?si=kQh8KTWL7NabAozB - Machine",
 "https://www.youtube.com/live/EsDFiZPljYo?si=quvVZXXCzFHEUfBG - Data Analysts",
 "https://youtu.be/jcTj6FgWOpo?si=gIhpAxB4rBcZFV3m - Lead Data Analyst",
-"https://youtu.be/4Z9KEBexzcM?si=3k3x6Yz4Qq6LkZ8_ - Data Scientist",]
+"https://youtu.be/4Z9KEBexzcM?si=3k3x6Yz4Qq6LkZ8_ - Data Scientist"
+]
+
+
 
 # Print the list of strings
 for item in titles_and_links:

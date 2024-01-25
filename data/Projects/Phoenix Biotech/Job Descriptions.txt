@@ -1,0 +1,65 @@
+Project Manager
+Job Description:
+Responsibilities:
+Define and confirm project scope.
+Develop and manage a detailed project schedule and work plan.
+Provide project updates on a consistent basis to various stakeholders about strategy, adjustments, and progress.
+Utilize industry best practices, techniques, and standards throughout the entire project execution.
+Requirements:
+Proven work experience as a project manager in the IT sector.
+Solid technical background, with understanding or hands-on experience in software development and web technologies.
+Excellent client-facing and internal communication skills.
+Excellent written and verbal communication skills.
+Strong working knowledge of Microsoft Office.
+
+Lead Data Analyst
+Job Description:
+Responsibilities:
+Interpret data, analyze results using statistical techniques, and provide ongoing reports.
+Develop and implement databases, data collection systems, data analytics, and other strategies that optimize statistical efficiency and quality.
+Acquire data from primary or secondary data sources and maintain databases/data systems.
+Identify, analyze, and interpret trends or patterns in complex data sets.
+Requirements:
+Proven working experience as a data analyst or business data analyst.
+Technical expertise regarding data models, database design development, data mining, and segmentation techniques.
+Strong knowledge of and experience with reporting packages (Business Objects etc), databases (SQL etc), programming (XML, JavaScript, or ETL frameworks).
+Knowledge of statistics and experience using statistical packages for analyzing datasets (Excel, SPSS, SAS etc).
+
+Data Analysts
+Job Description:
+Responsibilities:
+Collecting and interpreting data.
+Analyzing results.
+Reporting the results back to the relevant members of the business.
+Identifying patterns and trends in data sets.
+Requirements:
+Proven working experience as a data analyst or business data analyst.
+Technical expertise regarding data models, database design development, data mining, and segmentation techniques.
+Strong knowledge of and experience with reporting packages (Business Objects etc), databases (SQL etc), programming (XML, JavaScript, or ETL frameworks).
+Knowledge of statistics and experience using statistical packages for analyzing datasets (Excel, SPSS, SAS etc).
+
+Tableau Developer
+Job Description:
+Responsibilities:
+Develop, maintain, and manage advanced reporting, analytics, dashboards and other BI solutions.
+Perform and document data analysis, data validation, and data mapping/design.
+Review and improve existing systems and collaborate with teams to integrate new systems.
+Conduct unit tests and develop database queries to analyze performance and respond to end-user queries.
+Requirements:
+Proven experience as a Tableau Developer.
+Experience in data preparation, data gateway and data warehousing projects.
+Experience with SQL server.
+Knowledge of AI, Machine Learning and Deep Learning.
+
+Machine Learning Engineer
+Job Description:
+Responsibilities:
+Design machine learning systems.
+Research and implement appropriate ML algorithms and tools.
+Develop machine learning applications according to requirements.
+Select appropriate datasets and data representation methods.
+Requirements:
+Proven experience as a Machine Learning Engineer or similar role.
+Understanding of data structures, data modeling and software architecture.
+Deep knowledge of math, probability, statistics and algorithms.
+Ability to write robust code in Python, Java and R.
